@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c179329ce988049875fc5ddce5b33a, type: 3}
+  m_Name: Sword_ThunderRate 3
+  m_EditorClassIdentifier: 
+  id: SthR3
+  nameEquipment:
+  - Stormbringer
+  - "Phong L\xF4i Ki\u1EBFm"
+  description:
+  - 'The legendary sword containing the power of wind and lightning to wield it is
+    to command the fury of wild nature.    '
+  - "Thanh ki\u1EBFm huy\u1EC1n tho\u1EA1i ch\u1EE9a s\u1EE9c m\u1EA1nh c\u1EE7a
+    gi\xF3 v\xE0 s\u1EA5m s\xE9t s\u1EDF h\u1EEFu n\xF3 l\xE0 n\u1EAFm gi\u1EEF uy
+    l\u1EF1c c\u1EE7a thi\xEAn nhi\xEAn hoang d\xE3.    "
+  avatar: {fileID: -814351050, guid: 8e6b89a19f0bbf941b8aa2768d8878d3, type: 3}
+  elementType: 2
+  rarity: 2
+  ways: 1
+  equipmentType: 1
+  currentLevel: 1
+  maxLevel: 14
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: d36d6ee38deaaf74ca74bba64b427917, type: 3}
+  - {fileID: 21300000, guid: 5ecae5af460c20445a566f1c7cca0f3d, type: 3}
+  - {fileID: 0}
+  type: 0
+  baseWeaponATK: 120
+  baseWeaponCrit: 0.02
+  baseWeaponElementATK: 0

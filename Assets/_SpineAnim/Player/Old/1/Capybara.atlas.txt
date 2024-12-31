@@ -1,0 +1,47 @@
+Capybara.png
+	size: 1092, 1092
+	filter: Linear, Linear
+	pma: true
+Body
+	bounds: 2, 312, 623, 776
+	offsets: 0, 122, 850, 898
+Eyes
+	bounds: 945, 410, 116, 174
+	offsets: 1, 1, 118, 176
+Head
+	bounds: 627, 586, 502, 406
+	offsets: 0, 1, 503, 409
+	rotate: 90
+Left Ear
+	bounds: 768, 124, 194, 179
+	offsets: 1, 2, 196, 182
+	rotate: 90
+Left Leg
+	bounds: 2, 20, 290, 319
+	offsets: 0, 0, 291, 320
+	rotate: 90
+Left hand
+	bounds: 323, 86, 250, 224
+	offsets: 0, 0, 251, 224
+Right Ear
+	bounds: 949, 260, 148, 123
+	offsets: 1, 2, 150, 126
+	rotate: 90
+Right hand
+	bounds: 575, 85, 191, 225
+Right leg
+	bounds: 627, 320, 264, 316
+	rotate: 90
+Tail
+	bounds: 926, 23, 106, 96
+	offsets: 1, 1, 108, 98
+mouth
+	bounds: 768, 29, 93, 156
+	offsets: 712, 617, 1002, 1002
+	rotate: 90
+s1
+	bounds: 323, 2, 155, 82
+	offsets: 5, 3, 160, 160
+s2
+	bounds: 949, 121, 128, 137
+	offsets: 14, 7, 160, 160

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a1257c12f2c76a468e89f72762bc6b0, type: 3}
+  m_Name: Level 32
+  m_EditorClassIdentifier: 
+  _pathToLevelFile: LevelsData
+  _levelFile: {fileID: 4900000, guid: f767fba3d2079d548853d63542a10900, type: 3}
+  _levelId: lvl_32
+  _levelName: 32
+  _levelMaxScore: 7000
+  _unlockLevelOnStart: 0
+  _countAvailableBalls: 46
+  _ballColorsInLevel: 080000000100000003000000020000000500000007000000
+  levelRewards:
+  - {fileID: 11400000, guid: bffdf83a49e90644f9d40d8b67652579, type: 2}
+  _ballDestroyScore: 150
+  _ballDestroyScaleGroup: 4
+  _ballDropScore: 200
+  _ballDropScaleGroup: 2
+  isBossLevel: 0

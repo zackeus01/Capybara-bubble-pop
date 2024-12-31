@@ -1,0 +1,364 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainScene Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainScene
+  m_TableCollectionNameGuidString: b4d9e427e7ffdcf41aa7beca6a306d15
+  m_Entries:
+  - m_Id: 9522790400
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67609706496
+    m_Key: Achievement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162631663616
+    m_Key: Daily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176225402880
+    m_Key: Event
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215345676288
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 568770314240
+    m_Key: Backpack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12663241539866624
+    m_Key: StarterPack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12663385043783680
+    m_Key: DailyPack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12663506032676864
+    m_Key: WeeklyPack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12666252819451904
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13385712417132544
+    m_Key: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13403980985028608
+    m_Key: Daily Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404404290965504
+    m_Key: Daily Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404644045770752
+    m_Key: Day 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404685791678464
+    m_Key: Day 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404687179993088
+    m_Key: Day 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404688908046336
+    m_Key: Day 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404690619322368
+    m_Key: Day 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404692095717376
+    m_Key: Day 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404693576306688
+    m_Key: Day 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13406774240497664
+    m_Key: Starter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13407004524564480
+    m_Key: Pop Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13407121482731520
+    m_Key: Large Pop Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13407205154902016
+    m_Key: Huge Pop Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13407847416090624
+    m_Key: NotEnough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408011463708672
+    m_Key: IUnderstand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408250820055040
+    m_Key: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408298526068736
+    m_Key: ContentTryAgain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408742291820544
+    m_Key: DailyBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408785165996032
+    m_Key: WeeklyBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13409957432020992
+    m_Key: Balls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13412533015695360
+    m_Key: Gigan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13412609301696512
+    m_Key: BreakGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14469246909173760
+    m_Key: MissionClear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14473377258426368
+    m_Key: TapToExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19183241901629440
+    m_Key: intro_dialogue_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19183326781759488
+    m_Key: intro_dialogue_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549320138252288
+    m_Key: Skill_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549391034572800
+    m_Key: Skill_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549427239804928
+    m_Key: Skill_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549436618268672
+    m_Key: Skill_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549447296966656
+    m_Key: Skill_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549481497321472
+    m_Key: Skill_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549490292776960
+    m_Key: Skill_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549500925337600
+    m_Key: Skill_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549510630957056
+    m_Key: Skill_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549524413440000
+    m_Key: Skill_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20293964958523392
+    m_Key: Exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20294749553418240
+    m_Key: ExchangeTable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23502666654015488
+    m_Key: Armor Chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23502900520017920
+    m_Key: WeaponChest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23615783182589952
+    m_Key: intro_dialogue_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23615816904794112
+    m_Key: intro_dialogue_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23615828799840256
+    m_Key: intro_dialogue_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23615843471515648
+    m_Key: intro_dialogue_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23616226302418944
+    m_Key: intro_dialogue_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23616952416133120
+    m_Key: intro_dialogue_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23617804602236928
+    m_Key: intro_dialogue_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23617807622135808
+    m_Key: intro_dialogue_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23617941395267584
+    m_Key: intro_dialogue_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23633204333305856
+    m_Key: Skill_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23638411700133888
+    m_Key: Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23731927914700800
+    m_Key: Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23735357345423360
+    m_Key: Clickto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23756866810077184
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23757248651124736
+    m_Key: NextLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23757763929759744
+    m_Key: OutOfBubbles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23757966980210688
+    m_Key: PopAll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23758157489692672
+    m_Key: PlayOn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23758589066797056
+    m_Key: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23758942512406528
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23759158443565056
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23858950375510016
+    m_Key: EquipmentReward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23859194148458496
+    m_Key: Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23859246451429376
+    m_Key: Bundle Plant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24001814943817728
+    m_Key: Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24001881922658304
+    m_Key: Decrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24002210370215936
+    m_Key: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24231578707156992
+    m_Key: Skill_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25143500072304640
+    m_Key: Anewpack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25143626731896832
+    m_Key: understand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27335397645762560
+    m_Key: Survey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27336000103006208
+    m_Key: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27338014178426880
+    m_Key: detailsurvey
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1470148613786042396
+  references:
+    version: 2
+    RefIds:
+    - rid: 1470148613786042396
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1726649299886

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8cde5698a65974fbccd15f7d997b96, type: 3}
+  m_Name: Armor_WoodRate1
+  m_EditorClassIdentifier: 
+  id: ArWoR1
+  nameEquipment:
+  - Ancient Tree Armor
+  - "Gi\xE1p Th\u1EA7n Th\u1EE5"
+  description:
+  - 'A legendary armor inspired by the sacred tree, capable of healing and protecting
+    its wearer from all harm.    '
+  - "B\u1ED9 gi\xE1p huy\u1EC1n tho\u1EA1i l\u1EA5y c\u1EA3m h\u1EE9ng t\u1EEB c\xE2y
+    th\u1EA7n th\u1EE5, c\xF3 kh\u1EA3 n\u0103ng ph\u1EE5c h\u1ED3i v\xE0 b\u1EA3o
+    v\u1EC7 ch\u1EE7 nh\xE2n kh\u1ECFi m\u1ECDi t\u1ED5n th\u01B0\u01A1ng.    "
+  avatar: {fileID: 21300000, guid: d784e5d28e83e4044bfdbfd467f71cd9, type: 3}
+  elementType: 4
+  rarity: 0
+  ways: 1
+  equipmentType: 0
+  currentLevel: 1
+  maxLevel: 10
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: 232ba325fba84624db55ced424121e32, type: 3}
+  - {fileID: 21300000, guid: 3e2393560a8ed5748bb0d6ef0c0ffd26, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  baseArmorHP: 200
+  baseArmorDEF: 50
+  baseArmorElementRes: 10
+  armorSkills: 0
+  armorSkillsName: []
+  head: {fileID: 21300000, guid: 06a89c30d435927448fde2eee8ba5cfc, type: 3}
+  body: {fileID: 21300000, guid: b32e0b1d0a651db4c94c77c6b346beda, type: 3}
+  lArm: {fileID: 21300000, guid: 91d97c77ad4f7394c94540009641b148, type: 3}
+  rArm: {fileID: 21300000, guid: c75c028d26e15994982bb7ef1da668d3, type: 3}

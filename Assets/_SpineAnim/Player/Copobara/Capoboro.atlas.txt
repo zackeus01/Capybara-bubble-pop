@@ -1,0 +1,109 @@
+Capoboro.png
+	size: 3992, 4092
+	filter: Linear, Linear
+	pma: true
+Body
+	bounds: 3247, 382, 623, 776
+	offsets: 0, 122, 850, 898
+Bow arrow/arrow-1
+	bounds: 2006, 1162, 492, 2928
+	offsets: 254, 31, 1000, 2983
+Bow arrow/arrow-3
+	bounds: 2500, 1177, 492, 2913
+	offsets: 254, 31, 1000, 2983
+Bow arrow/arrow-5
+	bounds: 3391, 1160, 492, 2930
+	offsets: 254, 31, 1000, 2983
+Bow arrow/bow-1
+	bounds: 2, 2590, 1000, 1500
+Bow arrow/bow-2
+	bounds: 2, 1088, 1000, 1500
+Bow arrow/bow-3
+	bounds: 2, 86, 1000, 1500
+	rotate: 90
+Bow arrow/bow-4
+	bounds: 1004, 2590, 1000, 1500
+Bow arrow/bow-5
+	bounds: 1004, 1088, 1000, 1500
+Eyes
+	bounds: 3391, 12, 116, 174
+	offsets: 1, 1, 118, 176
+	rotate: 90
+Left Ear
+	bounds: 3810, 186, 194, 179
+	offsets: 1, 2, 196, 182
+	rotate: 90
+Left Leg
+	bounds: 2833, 61, 290, 319
+	offsets: 0, 0, 291, 320
+Left hand
+	bounds: 3391, 130, 250, 224
+	offsets: 0, 0, 251, 224
+	rotate: 90
+Right Ear
+	bounds: 3567, 5, 148, 123
+	offsets: 1, 2, 150, 126
+Right hand
+	bounds: 3617, 155, 191, 225
+Right leg
+	bounds: 3125, 64, 264, 316
+Sword-4
+	bounds: 1504, 382, 704, 1741
+	offsets: 148, 28, 1000, 1820
+	rotate: 90
+Tail
+	bounds: 3875, 78, 106, 96
+	offsets: 1, 1, 108, 98
+	rotate: 90
+chill/crozier-2
+	bounds: 2994, 2639, 392, 1451
+	offsets: 300, 260, 1000, 1937
+chill/crozier-3
+	bounds: 1504, 35, 345, 1327
+	offsets: 323, 311, 1000, 1937
+	rotate: 90
+chill/crozier-4
+	bounds: 2994, 1254, 293, 1383
+	offsets: 349, 274, 1000, 1937
+mouth
+	bounds: 3717, 60, 93, 156
+	offsets: 712, 617, 1002, 1002
+	rotate: 90
+s1
+	bounds: 2, 2, 155, 82
+	offsets: 5, 3, 160, 160
+
+Capoboro_2.png
+	size: 3008, 2916
+	filter: Linear, Linear
+	pma: true
+Bow arrow/arrow-2
+	bounds: 2, 2, 492, 2912
+	offsets: 254, 39, 1000, 2983
+Bow arrow/arrow-4
+	bounds: 496, 33, 492, 2881
+	offsets: 254, 31, 1000, 2983
+Head
+	bounds: 2508, 116, 502, 406
+	offsets: 0, 1, 503, 409
+	rotate: 90
+Sword-1
+	bounds: 1592, 1170, 566, 1744
+	offsets: 207, 28, 1000, 1820
+Sword-2
+	bounds: 990, 620, 548, 1735
+	offsets: 226, 34, 1000, 1820
+	rotate: 90
+Sword-3
+	bounds: 2160, 1187, 568, 1727
+	offsets: 216, 40, 1000, 1820
+Sword-5
+	bounds: 990, 1171, 600, 1743
+	offsets: 200, 25, 1000, 1820
+chill/crozier-1
+	bounds: 990, 80, 538, 1516
+	offsets: 227, 245, 1000, 1937
+	rotate: 90
+chill/crozier-5
+	bounds: 2730, 1520, 276, 1394
+	offsets: 358, 264, 1000, 1937

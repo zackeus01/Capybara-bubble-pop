@@ -1,0 +1,17 @@
+PiNo-PiNo-PiNo-BlNo-BlNo-BlNo-BlNo-PiNo-PiNo-PiNo-PiNo
+PiNo-BlNo-BlNo-BlNo-PiNo-PiNo-BlNo-BlNo-PiNo-PiNo-PiNo
+PiNo-PiNo-PiNo-PiNo-PiNo-PiNo-PiNo-PiNo-PiNo-PiNo-PiNo
+BlNo-BlNo-BlNo-PiNo-PiNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo
+PiNo-PiNo-PiNo-PiNo-PiNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo
+BlNo-BlNo-NoBl-NoBl-NoBl-PiNo-BlNo-NoBl-NoBl-NoBl-BlNo
+GrNo-GrNo-NoBl-NoBl-PiNo-PiNo-PiNo-NoBl-NoBl-GrNo-GrNo
+ZR-ZR-GrNo-GrNo-GrNo-GrNo-GrNo-GrNo-GrNo-ZR-ZR
+ZR-GrNo-GrNo-PiNo-PiNo-PiNo-PiNo-PiNo-GrNo-GrNo-ZR
+ZR-GrNo-GrNo-PiNo-BlNo-BlNo-BlNo-PiNo-GrNo-GrNo-ZR
+ZR-ZR-PiNo-NoBl-BlNo-BlNo-BlNo-NoBl-PiNo-ZR-ZR
+PiNo-PiNo-PiNo-NoBl-PiNo-PiNo-PiNo-PiNo-NoBl-PiNo-PiNo
+PiNo-NoBl-NoBl-BlNo-BlNo-BlNo-BlNo-BlNo-NoBl-NoBl-PiNo
+PiNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-PiNo
+BlNo-BlNo-BlNo-PiNo-PiNo-PiNo-PiNo-PiNo-BlNo-BlNo-BlNo
+PiNo-PiNo-NoBl-NoBl-NoBl-PiNo-PiNo-NoBl-NoBl-NoBl-PiNo
+PiNo-GrNo-NoBl-GrNo-GrNo-GrNo-GrNo-GrNo-NoBl-GrNo-PiNo

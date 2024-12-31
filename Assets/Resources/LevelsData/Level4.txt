@@ -1,0 +1,15 @@
+GrNo-GrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-GrNo-GrNo
+GrNo-BlNo-BlNo-BlNo-OrNo-OrNo-BlNo-BlNo-GrNo-GrNo-GrNo
+BlNo-GrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-GrNo-GrNo-GrNo
+BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-GrNo-GrNo-GrNo
+GrNo-GrNo-GrNo-OrNo-OrNo-OrNo-OrNo-OrNo-GrNo-GrNo-GrNo
+ZR-ZR-GrNo-GrNo-GrNo-GrNo-GrNo-GrNo-GrNo-ZR-ZR
+ZR-ZR-ZR-OrNo-OrNo-OrNo-OrNo-OrNo-ZR-ZR-ZR
+ZR-ZR-ZR-OrNo-BlNo-BlNo-BlNo-BlNo-OrNo-ZR-ZR
+ZR-ZR-OrNo-BlNo-BlNo-BlNo-BlNo-BlNo-OrNo-ZR-ZR
+ZR-OrNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-OrNo
+OrNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-BlNo-OrNo
+BlNo-BlNo-BlNo-GrNo-GrNo-GrNo-GrNo-GrNo-BlNo-BlNo-BlNo
+OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo
+OrNo-GrNo-GrNo-GrNo-GrNo-GrNo-GrNo-GrNo-GrNo-GrNo-OrNo
+OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo-OrNo

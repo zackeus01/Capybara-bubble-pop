@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8cde5698a65974fbccd15f7d997b96, type: 3}
+  m_Name: Armor_IronRate5
+  m_EditorClassIdentifier: 
+  id: ArIrR5
+  nameEquipment:
+  - Ironbone Armor
+  - "Gi\xE1p Thi\u1EBFt C\u1ED1t"
+  description:
+  - 'An armor as tough as steel, protecting its wearer from all harm, enhancing strength
+    and endurance.    '
+  - "B\u1ED9 gi\xE1p c\u1EE9ng r\u1EAFn nh\u01B0 th\xE9p, b\u1EA3o v\u1EC7 ch\u1EE7
+    nh\xE2n kh\u1ECFi m\u1ECDi th\u01B0\u01A1ng t\u1ED5n, t\u0103ng c\u01B0\u1EDDng
+    s\u1EE9c m\u1EA1nh v\xE0 s\u1EF1 b\u1EC1n b\u1EC9.    "
+  avatar: {fileID: 21300000, guid: 8df273ca301058444aaaecf23ef297ca, type: 3}
+  elementType: 2
+  rarity: 4
+  ways: 0
+  equipmentType: 0
+  currentLevel: 1
+  maxLevel: 18
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: dbec2c72aa21c1241a9c3ded39a7fc76, type: 3}
+  - {fileID: 21300000, guid: 5ecae5af460c20445a566f1c7cca0f3d, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  baseArmorHP: 350
+  baseArmorDEF: 100
+  baseArmorElementRes: 50
+  armorSkills: 3
+  armorSkillsName:
+  - Every 3 turns, a shield envelops the weapon, increasing its base damage by 10%.
+  - "M\u1ED7i 3 l\u01B0\u1EE3t s\u1EBD tri\u1EC7u h\u1ED3i m\u1ED9t l\u1EDBp v\u1ECF
+    b\u1ECDc bao quanh v\u0169 kh\xED t\u0103ng th\xEAm 10% s\xE1t th\u01B0\u01A1ng
+    thu\u1EA7n cho v\u0169 kh\xED"
+  head: {fileID: 21300000, guid: b9ffef15fe82c814dab56ddeadd6f3db, type: 3}
+  body: {fileID: 21300000, guid: 7162fef6fe3cb37468ddd92ea6eff80a, type: 3}
+  lArm: {fileID: 21300000, guid: a2a91cb452e22fc4ca0bf9230cf53006, type: 3}
+  rArm: {fileID: 21300000, guid: 2d38aacea402fe5448af51a50b62a9e1, type: 3}

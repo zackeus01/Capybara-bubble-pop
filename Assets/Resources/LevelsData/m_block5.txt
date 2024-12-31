@@ -1,0 +1,5 @@
+ZR-GrNo-ZR-ZR-OrNo-ZR-ZR-YeNo-ZR-ZR-OrNo
+ZR-GrNo-PiNo-NoRo-OrNo-ViNo-NoRo-YeNo-GrNo-NoRo-OrNo
+GrNo-ReNo-PiNo-OrNo-YeNo-ViNo-YeNo-PiNo-GrNo-OrNo-ViNo
+GrNo-ReNo-ViNo-PiNo-YeNo-ReNo-ViNo-PiNo-YeNo-GrNo-ViNo
+ReGr-ViNo-ViNo-YeGr-ReNo-ReNo-PiGr-YeNo-YeNo-ViGr-ZR

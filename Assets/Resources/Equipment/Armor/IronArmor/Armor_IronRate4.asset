@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8cde5698a65974fbccd15f7d997b96, type: 3}
+  m_Name: Armor_IronRate4
+  m_EditorClassIdentifier: 
+  id: ArIrR4
+  nameEquipment:
+  - Ironbone Armor
+  - "Gi\xE1p Thi\u1EBFt C\u1ED1t"
+  description:
+  - 'An armor as tough as steel, protecting its wearer from all harm, enhancing strength
+    and endurance.    '
+  - "B\u1ED9 gi\xE1p c\u1EE9ng r\u1EAFn nh\u01B0 th\xE9p, b\u1EA3o v\u1EC7 ch\u1EE7
+    nh\xE2n kh\u1ECFi m\u1ECDi th\u01B0\u01A1ng t\u1ED5n, t\u0103ng c\u01B0\u1EDDng
+    s\u1EE9c m\u1EA1nh v\xE0 s\u1EF1 b\u1EC1n b\u1EC9.    "
+  avatar: {fileID: 21300000, guid: 8df273ca301058444aaaecf23ef297ca, type: 3}
+  elementType: 2
+  rarity: 3
+  ways: 0
+  equipmentType: 0
+  currentLevel: 1
+  maxLevel: 16
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: 7926ecbd82d7ea64b9af990b72af4558, type: 3}
+  - {fileID: 21300000, guid: 5ecae5af460c20445a566f1c7cca0f3d, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  baseArmorHP: 280
+  baseArmorDEF: 80
+  baseArmorElementRes: 30
+  armorSkills: 0
+  armorSkillsName: []
+  head: {fileID: 21300000, guid: b9ffef15fe82c814dab56ddeadd6f3db, type: 3}
+  body: {fileID: 21300000, guid: 7162fef6fe3cb37468ddd92ea6eff80a, type: 3}
+  lArm: {fileID: 21300000, guid: a2a91cb452e22fc4ca0bf9230cf53006, type: 3}
+  rArm: {fileID: 21300000, guid: 2d38aacea402fe5448af51a50b62a9e1, type: 3}

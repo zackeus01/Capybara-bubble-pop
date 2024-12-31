@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c179329ce988049875fc5ddce5b33a, type: 3}
+  m_Name: MagicSeal_Earth Rate 4
+  m_EditorClassIdentifier: 
+  id: MEaR4
+  nameEquipment:
+  - Earth King Staff
+  - "G\u1EADy Ho\xE0ng Th\u1ED5"
+  description:
+  - 'A mystical staff imbued with the power of the earth, capable of summoning solid
+    layers of soil to protect and enhance defensive strength.    '
+  - "G\u1EADy ph\xE9p huy\u1EC1n b\xED ch\u1EE9a s\u1EE9c m\u1EA1nh c\u1EE7a \u0111\u1EA5t
+    m\u1EB9, c\xF3 kh\u1EA3 n\u0103ng t\u1EA1o ra nh\u1EEFng l\u1EDBp \u0111\u1EA5t
+    v\u1EEFng ch\u1EAFc, b\u1EA3o v\u1EC7 v\xE0 gia t\u0103ng s\u1EE9c m\u1EA1nh
+    ph\xF2ng th\u1EE7.    "
+  avatar: {fileID: 21300000, guid: 316663ce3be4fd544849137608d5b26f, type: 3}
+  elementType: 3
+  rarity: 3
+  ways: 0
+  equipmentType: 1
+  currentLevel: 1
+  maxLevel: 16
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: 7926ecbd82d7ea64b9af990b72af4558, type: 3}
+  - {fileID: 21300000, guid: ea5c84e0972abfd4cbc0ebff2f578dcc, type: 3}
+  - {fileID: 0}
+  type: 2
+  baseWeaponATK: 40
+  baseWeaponCrit: 0.03
+  baseWeaponElementATK: 200

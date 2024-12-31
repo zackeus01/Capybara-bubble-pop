@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 873c1f52162baab40ace88b73d9ca976
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - equipmentPrefab: {fileID: 2742032228897907884, guid: 82aba196b0ab9ea44a85a5336da5768a, type: 3}
+  - player: {instanceID: 0}
+  - armorButton: {instanceID: 0}
+  - armorImage: {instanceID: 0}
+  - weaponButton: {instanceID: 0}
+  - weaponImage: {instanceID: 0}
+  - contentTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

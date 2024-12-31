@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c179329ce988049875fc5ddce5b33a, type: 3}
+  m_Name: Bow_ThunderRate 1
+  m_EditorClassIdentifier: 
+  id: BThR1
+  nameEquipment:
+  - Thunderstrike Bow
+  - "\u0110i\u1EC7n Ti\u1EC5n Cung"
+  description:
+  - 'A legendary bow imbued with the power of thunder, each arrow shot with lightning
+    speed, annihilating all enemies in its path.    '
+  - "Cung huy\u1EC1n tho\u1EA1i ch\u1EE9a s\u1EE9c m\u1EA1nh c\u1EE7a s\u1EA5m s\xE9t,
+    m\u1ED7i m\u0169i t\xEAn b\u1EAFn ra mang theo tia ch\u1EDBp nhanh nh\u01B0 \u0111i\u1EC7n,
+    h\u1EE7y di\u1EC7t m\u1ECDi k\u1EBB th\xF9.    "
+  avatar: {fileID: 21300000, guid: 997ff179441cf214e88edc6788f726a1, type: 3}
+  elementType: 2
+  rarity: 0
+  ways: 1
+  equipmentType: 1
+  currentLevel: 1
+  maxLevel: 10
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: 232ba325fba84624db55ced424121e32, type: 3}
+  - {fileID: 21300000, guid: 5ecae5af460c20445a566f1c7cca0f3d, type: 3}
+  - {fileID: 0}
+  type: 1
+  baseWeaponATK: 70
+  baseWeaponCrit: 0.15
+  baseWeaponElementATK: 10

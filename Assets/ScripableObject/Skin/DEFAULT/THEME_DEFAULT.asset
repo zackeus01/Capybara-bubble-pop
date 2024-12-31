@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1f8159ddc7be5749a467d2ab320a67f, type: 3}
+  m_Name: THEME_DEFAULT
+  m_EditorClassIdentifier: 
+  id: THEME_BALL_DEFAULT
+  name: Normal
+  vieName: "B\xECnh th\u01B0\u1EDDng"
+  sprite: {fileID: 0}
+  skinType: 0
+  goldPrice: 0
+  gemPrice: 0
+  canUnlockByAds: 0
+  isHidden: 0
+  skins:
+  - {fileID: 11400000, guid: 1993351a73af9a643b1354200db08114, type: 2}
+  - {fileID: 11400000, guid: 2742c81e15c63b341b8061f76d474586, type: 2}
+  - {fileID: 11400000, guid: 8113dcf88a801d44aa6e75761aa60449, type: 2}
+  - {fileID: 11400000, guid: 2a12c0f2abea00e4db4f70e984fe11ba, type: 2}
+  - {fileID: 11400000, guid: 6aef09ecbec3abd49aea5876ffad4017, type: 2}
+  - {fileID: 11400000, guid: bd98b586d15ef90438c5f5337832709a, type: 2}
+  - {fileID: 11400000, guid: 853e41986654fd441a822296a7dc8262, type: 2}
+  - {fileID: 11400000, guid: 9651cf7692375964a9261fa2d0a72867, type: 2}

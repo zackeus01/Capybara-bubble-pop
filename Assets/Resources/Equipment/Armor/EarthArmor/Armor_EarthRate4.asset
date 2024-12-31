@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8cde5698a65974fbccd15f7d997b96, type: 3}
+  m_Name: Armor_EarthRate4
+  m_EditorClassIdentifier: 
+  id: ArEaR4
+  nameEquipment:
+  - Mountainbone Armor
+  - "Th\u1EA1ch T\xE2m Kh\u1EA3i"
+  description:
+  - The Stone Heart Armor of the Earth element, a solid armor infused with the power
+    of the earth, protecting its wearer and enhancing defensive strength.
+  - "B\u1ED9 gi\xE1p v\u1EEFng ch\u1EAFc nh\u01B0 \u0111\xE1, mang s\u1EE9c m\u1EA1nh
+    c\u1EE7a \u0111\u1EA5t m\u1EB9, b\u1EA3o v\u1EC7 ch\u1EE7 nh\xE2n v\xE0 t\u0103ng
+    c\u01B0\u1EDDng s\u1EE9c m\u1EA1nh ph\xF2ng th\u1EE7.    "
+  avatar: {fileID: 21300000, guid: a9eee129db94d5a47b1706ef06f9962c, type: 3}
+  elementType: 3
+  rarity: 3
+  ways: 0
+  equipmentType: 0
+  currentLevel: 1
+  maxLevel: 16
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: 7926ecbd82d7ea64b9af990b72af4558, type: 3}
+  - {fileID: 21300000, guid: ea5c84e0972abfd4cbc0ebff2f578dcc, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  baseArmorHP: 280
+  baseArmorDEF: 80
+  baseArmorElementRes: 30
+  armorSkills: 0
+  armorSkillsName: []
+  head: {fileID: 21300000, guid: 42b46d9b328b5884ea0a3fd5a187fe3a, type: 3}
+  body: {fileID: 21300000, guid: 093a6b09dff9d2640979cf5ab6947410, type: 3}
+  lArm: {fileID: 21300000, guid: e5e9e385ce5e80043b86a5d3910ba861, type: 3}
+  rArm: {fileID: 21300000, guid: 20d5d2af1d519c9469f7fd2d7e27944e, type: 3}

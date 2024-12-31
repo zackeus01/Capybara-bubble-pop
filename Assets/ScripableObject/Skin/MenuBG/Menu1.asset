@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3c182310522494ba4a7956a69fb7e1, type: 3}
+  m_Name: Menu1
+  m_EditorClassIdentifier: 
+  id: MENU_DEFAULT
+  name: MENU_DEFAULT
+  sprite: {fileID: 21300000, guid: f33c29e64a3ab4456b7140facf377e98, type: 3}
+  skinType: 2
+  ballType: 0
+  color: 0
+  themeType: 0
+  goldPrice: 0
+  gemPrice: 0
+  canUnlockByAds: 0
+  isHidden: 0

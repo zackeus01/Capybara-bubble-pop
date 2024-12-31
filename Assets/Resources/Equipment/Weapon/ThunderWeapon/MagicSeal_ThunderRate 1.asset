@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c179329ce988049875fc5ddce5b33a, type: 3}
+  m_Name: MagicSeal_ThunderRate 1
+  m_EditorClassIdentifier: 
+  id: MthR1
+  nameEquipment:
+  - Thunderstrike Spell
+  - "Thi\xEAn L\xF4i Ph\xE1p"
+  description:
+  - 'A mystical staff imbued with the power of thunder, releasing powerful lightning
+    bolts from the sky to defeat enemies with the might of nature.    '
+  - "G\u1EADy ph\xE9p huy\u1EC1n b\xED ch\u1EE9a s\u1EE9c m\u1EA1nh c\u1EE7a s\u1EA5m
+    s\xE9t, ph\xE1t ra nh\u1EEFng tia ch\u1EDBp m\u1EA1nh m\u1EBD t\u1EEB b\u1EA7u
+    tr\u1EDDi, \u0111\xE1nh b\u1EA1i m\u1ECDi k\u1EBB th\xF9 b\u1EB1ng uy l\u1EF1c
+    thi\xEAn nhi\xEAn.    "
+  avatar: {fileID: 21300000, guid: fb623d7e0d53a3a48877876a6a308b60, type: 3}
+  elementType: 2
+  rarity: 0
+  ways: 1
+  equipmentType: 1
+  currentLevel: 1
+  maxLevel: 10
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: 232ba325fba84624db55ced424121e32, type: 3}
+  - {fileID: 21300000, guid: 5ecae5af460c20445a566f1c7cca0f3d, type: 3}
+  - {fileID: 0}
+  type: 2
+  baseWeaponATK: 40
+  baseWeaponCrit: 0.03
+  baseWeaponElementATK: 80

@@ -1,0 +1,58 @@
+Capoboro.png
+size:2700,2700
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,179,623,776
+offsets:0,122,850,898
+Eyes
+bounds:2,3,116,174
+offsets:1,1,118,176
+Head
+bounds:627,2,502,406
+offsets:0,1,503,409
+Left Ear
+bounds:2453,2267,194,179
+offsets:1,2,196,182
+Left Leg
+bounds:1131,89,290,319
+offsets:0,0,291,320
+Left hand
+bounds:2453,2448,250,224
+offsets:0,0,251,224
+rotate:90
+Right Ear
+bounds:1882,285,148,123
+offsets:1,2,150,126
+Right hand
+bounds:1689,183,191,225
+Right leg
+bounds:1423,92,264,316
+Sword-1
+bounds:708,1530,566,1744
+offsets:207,28,1000,1820
+rotate:90
+Sword-2
+bounds:708,410,548,1735
+offsets:226,34,1000,1820
+rotate:90
+Sword-3
+bounds:708,960,568,1727
+offsets:216,40,1000,1820
+rotate:90
+Sword-4
+bounds:2,957,704,1741
+offsets:148,28,1000,1820
+Sword-5
+bounds:708,2098,600,1743
+offsets:200,25,1000,1820
+rotate:90
+Tail
+bounds:120,81,106,96
+offsets:1,1,108,98
+mouth
+bounds:2453,2109,93,156
+offsets:712,617,1002,1002
+s1
+bounds:1131,5,155,82
+offsets:5,3,160,160

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1f8159ddc7be5749a467d2ab320a67f, type: 3}
+  m_Name: THEME_BALL_TEST
+  m_EditorClassIdentifier: 
+  id: THEME_BALL_TEST
+  name: Test
+  sprite: {fileID: 0}
+  skinType: 0
+  goldPrice: 50
+  gemPrice: 20
+  canUnlockByAds: 0
+  isHidden: 0
+  skins:
+  - {fileID: 11400000, guid: 8f7c66c56500be2418e2822e59fab83b, type: 2}
+  - {fileID: 11400000, guid: 181e1141ee2cad44aa5146d66859573e, type: 2}
+  - {fileID: 11400000, guid: eaf97e0aa11835746bb95c8913601cc8, type: 2}
+  - {fileID: 11400000, guid: 833414fb47375594fbaa4a6ecc1b9fe0, type: 2}
+  - {fileID: 11400000, guid: 92224ceb550098348b6782405a35be7e, type: 2}
+  - {fileID: 11400000, guid: 5dcabe03007832b4f9cee1775ddcfa0d, type: 2}

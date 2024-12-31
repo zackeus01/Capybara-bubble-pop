@@ -1,0 +1,25 @@
+Hehe y3.png
+size:2504,2504
+filter:Linear,Linear
+pma:true
+body
+bounds:2,1202,1649,1300
+head
+bounds:627,112,1088,917
+rotate:90
+left hand
+bounds:1546,9,391,476
+left leg
+bounds:2,2,483,623
+rotate:90
+left wing
+bounds:1653,1430,1072,776
+rotate:90
+right hand
+bounds:1939,57,401,428
+right leg
+bounds:2,692,508,581
+rotate:90
+right wing
+bounds:1653,487,941,690
+rotate:90

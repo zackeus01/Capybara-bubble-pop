@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c8cde5698a65974fbccd15f7d997b96, type: 3}
+  m_Name: Armor_WoodRate5
+  m_EditorClassIdentifier: 
+  id: ArWoR5
+  nameEquipment:
+  - Ancient Tree Armor
+  - "Gi\xE1p Th\u1EA7n Th\u1EE5"
+  description:
+  - 'A legendary armor inspired by the sacred tree, capable of healing and protecting
+    its wearer from all harm.    '
+  - "B\u1ED9 gi\xE1p huy\u1EC1n tho\u1EA1i l\u1EA5y c\u1EA3m h\u1EE9ng t\u1EEB c\xE2y
+    th\u1EA7n th\u1EE5, c\xF3 kh\u1EA3 n\u0103ng ph\u1EE5c h\u1ED3i v\xE0 b\u1EA3o
+    v\u1EC7 ch\u1EE7 nh\xE2n kh\u1ECFi m\u1ECDi t\u1ED5n th\u01B0\u01A1ng.    "
+  avatar: {fileID: 21300000, guid: d784e5d28e83e4044bfdbfd467f71cd9, type: 3}
+  elementType: 4
+  rarity: 4
+  ways: 0
+  equipmentType: 0
+  currentLevel: 1
+  maxLevel: 18
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: dbec2c72aa21c1241a9c3ded39a7fc76, type: 3}
+  - {fileID: 21300000, guid: 3e2393560a8ed5748bb0d6ef0c0ffd26, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  baseArmorHP: 350
+  baseArmorDEF: 100
+  baseArmorElementRes: 50
+  armorSkills: 4
+  armorSkillsName:
+  - Every 3 turns, a small tree sprout is created, restoring 10% of the player's
+    maximum health.
+  - "M\u1ED7i 3 l\u01B0\u1EE3t t\u1EA1o ra m\u1ED9t \u0111\u1ED1m c\xE2y gi\xFAp
+    h\u1ED3i ph\u1EE5c l\u1EA1i 10% m\xE1u t\u1ED1i \u0111a."
+  head: {fileID: 21300000, guid: 06a89c30d435927448fde2eee8ba5cfc, type: 3}
+  body: {fileID: 21300000, guid: b32e0b1d0a651db4c94c77c6b346beda, type: 3}
+  lArm: {fileID: 21300000, guid: 91d97c77ad4f7394c94540009641b148, type: 3}
+  rArm: {fileID: 21300000, guid: c75c028d26e15994982bb7ef1da668d3, type: 3}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f33bcc9615c970a4d9f8551449baee77, type: 3}
+  m_Name: Achievement 3
+  m_EditorClassIdentifier: 
+  id: 2
+  description: Sharp Shooter
+  VIDescription: "Thi\u1EC7n x\u1EA1"
+  type: 3
+  milestones:
+  - goal: 5
+    isUnlocked: 0
+    isClaimed: 0
+    reward: {fileID: 11400000, guid: 857ebe60da8a37a42b5715292ec5ae5d, type: 2}
+  - goal: 10
+    isUnlocked: 0
+    isClaimed: 0
+    reward: {fileID: 11400000, guid: 82ccc47ec7bdfbb4c9c39adf3a820a46, type: 2}
+  - goal: 20
+    isUnlocked: 0
+    isClaimed: 0
+    reward: {fileID: 11400000, guid: 79777a87bad48204293911234985e91f, type: 2}
+  progress: 0
+  currentMilestone: 0
+  currentRewardIndex: 0
+  isCompleted: 0
+  achivementSprite: {fileID: 21300000, guid: 18a392d8fe4d9064a9783a715420cd63, type: 3}

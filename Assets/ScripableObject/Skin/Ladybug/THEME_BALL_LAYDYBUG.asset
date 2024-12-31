@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1f8159ddc7be5749a467d2ab320a67f, type: 3}
+  m_Name: THEME_BALL_LAYDYBUG
+  m_EditorClassIdentifier: 
+  id: THEME_BALL_LAYDYBUG
+  name: Ladybug
+  vieName: "B\u1ECD r\xF9a"
+  sprite: {fileID: 0}
+  skinType: 0
+  goldPrice: 50
+  gemPrice: 10
+  canUnlockByAds: 1
+  isHidden: 0
+  skins:
+  - {fileID: 11400000, guid: b4cbd1635370d414688f15b0e5e52da5, type: 2}
+  - {fileID: 11400000, guid: 894fd5e95c08be541a3882c1fa6f861d, type: 2}
+  - {fileID: 11400000, guid: dcd0d721c2204784cae479415bb11a72, type: 2}
+  - {fileID: 11400000, guid: 35b7eef716522dc4899f706e993652fe, type: 2}
+  - {fileID: 11400000, guid: 99b5613f4e785ce4eb4d063ba302449f, type: 2}
+  - {fileID: 11400000, guid: 14de691bae3756842a823cf557602ec8, type: 2}
+  - {fileID: 11400000, guid: 1cc1601636f63ec4a82fab136e5ed9fa, type: 2}
+  - {fileID: 11400000, guid: dc940d4ae9ef2ad41846c0cee4b4d380, type: 2}

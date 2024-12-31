@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1f8159ddc7be5749a467d2ab320a67f, type: 3}
+  m_Name: THEME_BALL_TEST
+  m_EditorClassIdentifier: 
+  id: THEME_BALL_TEST
+  name: Fruit
+  vieName: "Tr\xE1i c\xE2y"
+  sprite: {fileID: 0}
+  skinType: 0
+  goldPrice: 50
+  gemPrice: 10
+  canUnlockByAds: 0
+  isHidden: 0
+  skins:
+  - {fileID: 11400000, guid: aaf152423b3542d42b30619f45934c36, type: 2}
+  - {fileID: 11400000, guid: 03d2ee634024e304680256ee0904fe26, type: 2}
+  - {fileID: 11400000, guid: bc075a83eaafbbd40ad543574d4d6a18, type: 2}
+  - {fileID: 11400000, guid: c2e1bdd86e27c2b468ad8bd0dd0a16e6, type: 2}
+  - {fileID: 11400000, guid: 0b307ca2fdc8cd144821531754a935ac, type: 2}
+  - {fileID: 11400000, guid: 7dbd4abc6920bad44aa354d23bec911d, type: 2}
+  - {fileID: 11400000, guid: 8de92a064eb023946b41dfcf6060f374, type: 2}
+  - {fileID: 11400000, guid: cece7a502a76035419e5a94236159eaa, type: 2}

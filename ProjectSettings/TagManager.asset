@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Cell
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - HUD
+  - VFX
+  - Capybara
+  - 
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Combat
+    uniqueID: 439459775
+    locked: 0
+  - name: Cover
+    uniqueID: 911439531
+    locked: 0
+  - name: FallingBall
+    uniqueID: 638344303
+    locked: 0
+  - name: HelperBall
+    uniqueID: 2762764581
+    locked: 0
+  - name: Score
+    uniqueID: 1703316343
+    locked: 0
+  - name: UI
+    uniqueID: 968011039
+    locked: 0
+  - name: HUD
+    uniqueID: 1945197317
+    locked: 0

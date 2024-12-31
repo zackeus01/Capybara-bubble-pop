@@ -1,0 +1,416 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainScene_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b4d9e427e7ffdcf41aa7beca6a306d15, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9522790400
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67609706496
+    m_Localized: Achievement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215345676288
+    m_Localized: Level {LevelName}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162631663616
+    m_Localized: Daily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176225402880
+    m_Localized: Event
+    m_Metadata:
+      m_Items: []
+  - m_Id: 568770314240
+    m_Localized: Backpack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12663241539866624
+    m_Localized: Starter Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12663385043783680
+    m_Localized: Today Sale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12663506032676864
+    m_Localized: This Week
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12666252819451904
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13385712417132544
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13403980985028608
+    m_Localized: Daily Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404404290965504
+    m_Localized: Daily Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404644045770752
+    m_Localized: Day 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404685791678464
+    m_Localized: Day 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404687179993088
+    m_Localized: Day 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404688908046336
+    m_Localized: Day 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404690619322368
+    m_Localized: Day 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404692095717376
+    m_Localized: Day 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404693576306688
+    m_Localized: Day 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13406774240497664
+    m_Localized: Starter Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13407004524564480
+    m_Localized: Pop Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13407121482731520
+    m_Localized: Large Pop Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13407205154902016
+    m_Localized: Huge Pop Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13407847416090624
+    m_Localized: 'You don''t have enough money to acquire this property '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408011463708672
+    m_Localized: I Understand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408250820055040
+    m_Localized: Try Again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408298526068736
+    m_Localized: Please check your connection and try again!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408742291820544
+    m_Localized: Daily Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13408785165996032
+    m_Localized: Weekly Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13409957432020992
+    m_Localized: Balls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13412533015695360
+    m_Localized: Gigantic Pop Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13412609301696512
+    m_Localized: Break Game Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14469246909173760
+    m_Localized: Mission Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14473377258426368
+    m_Localized: Tap To Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19183241901629440
+    m_Localized: Hello, congratulations on reaching level 10!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19183326781759488
+    m_Localized: Here, you will face ancient dragons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549320138252288
+    m_Localized: Restores health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549391034572800
+    m_Localized: Restores mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549427239804928
+    m_Localized: 'Increases attack '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549436618268672
+    m_Localized: 'Creates a virtual shield '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549447296966656
+    m_Localized: Control immunity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549481497321472
+    m_Localized: 'Completely remove negative effects '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549490292776960
+    m_Localized: 'Reduce defense '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549500925337600
+    m_Localized: 'Reduces attack '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549510630957056
+    m_Localized: Deals burn damage  per turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19549524413440000
+    m_Localized: Stun the player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20293964958523392
+    m_Localized: Exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20294749553418240
+    m_Localized: Exchange Table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23502666654015488
+    m_Localized: Armor Chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23502900520017920
+    m_Localized: Weapon Chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23617807622135808
+    m_Localized: Here, you can find explanations of the effects in the system.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23617804602236928
+    m_Localized: In Boss levels, there will be a "?" button in the top-left corner
+      of the screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23616952416133120
+    m_Localized: These items will help "Hero" increase survival ability and strength
+      when facing enemies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23616226302418944
+    m_Localized: Here, you can equip the "Hero" with armor and weapons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23615783182589952
+    m_Localized: In this level, there is a character we must assist in battling those
+      dragons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23615816904794112
+    m_Localized: Use your ball-shooting skills to support the "Hero" as much as possible.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23615828799840256
+    m_Localized: Note that each color ball you break will have different effects.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23615843471515648
+    m_Localized: Make sure the "Hero" is alive while posing increased danger to the
+      enemy forces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23617941395267584
+    m_Localized: Here's a small gift for you, and good luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23633204333305856
+    m_Localized: increase crit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23638411700133888
+    m_Localized: Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23675919907983360
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23676056747151360
+    m_Localized: Hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23676093032075264
+    m_Localized: DEF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23676146131963904
+    m_Localized: MANA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23676277011025920
+    m_Localized: ATK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23676340596674560
+    m_Localized: Crit Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23676640971755520
+    m_Localized: Element Resist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23676808127352832
+    m_Localized: ElementATK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23676981364690944
+    m_Localized: Level Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23677148985856000
+    m_Localized: Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23677215348133888
+    m_Localized: Equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23677288874283008
+    m_Localized: Equipment Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23677513693171712
+    m_Localized: Equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23731927914700800
+    m_Localized: Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23735357345423360
+    m_Localized: Click to continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23756866810077184
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23757248651124736
+    m_Localized: Next Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23757763929759744
+    m_Localized: Out Of Bubbles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23757966980210688
+    m_Localized: Pop All Bubbles!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23758157489692672
+    m_Localized: Play On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23758589066797056
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23758942512406528
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23759158443565056
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23858950375510016
+    m_Localized: Reward Equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23859194148458496
+    m_Localized: Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23859246451429376
+    m_Localized: Plant Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24001814943817728
+    m_Localized: Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24001881922658304
+    m_Localized: Decrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24002210370215936
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24231578707156992
+    m_Localized: Increase DEF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25143500072304640
+    m_Localized: A new pack is available!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25143626731896832
+    m_Localized: I understand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27335397645762560
+    m_Localized: Survey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27336000103006208
+    m_Localized: Go to survey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27338014178426880
+    m_Localized: Could you take a moment to fill out this survey so that the game
+      development team can improve the quality of the game?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

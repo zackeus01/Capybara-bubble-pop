@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c179329ce988049875fc5ddce5b33a, type: 3}
+  m_Name: Magic_WoodRate 3
+  m_EditorClassIdentifier: 
+  id: MWoR3
+  nameEquipment:
+  - Deep Root Staff
+  - "G\u1EADy R\u1EC5 S\xE2u"
+  description:
+  - 'A mystical staff imbued with the power of the deep forest, summoning roots to
+    extend and bind, protecting its wielder from all threats.    '
+  - "G\u1EADy ph\xE9p huy\u1EC1n b\xED mang s\u1EE9c m\u1EA1nh c\u1EE7a r\u1EEBng
+    s\xE2u, tri\u1EC7u h\u1ED3i r\u1EC5 c\xE2y v\u01B0\u01A1n d\xE0i, tr\xF3i bu\u1ED9c
+    v\xE0 b\u1EA3o v\u1EC7 ch\u1EE7 nh\xE2n kh\u1ECFi m\u1ECDi nguy hi\u1EC3m.    "
+  avatar: {fileID: 21300000, guid: e3ecc8740249fb443931f44b88c54849, type: 3}
+  elementType: 4
+  rarity: 2
+  ways: 1
+  equipmentType: 1
+  currentLevel: 1
+  maxLevel: 14
+  isLocked: 0
+  listImage:
+  - {fileID: 21300000, guid: d36d6ee38deaaf74ca74bba64b427917, type: 3}
+  - {fileID: 21300000, guid: 3e2393560a8ed5748bb0d6ef0c0ffd26, type: 3}
+  - {fileID: 0}
+  type: 2
+  baseWeaponATK: 40
+  baseWeaponCrit: 0.03
+  baseWeaponElementATK: 150

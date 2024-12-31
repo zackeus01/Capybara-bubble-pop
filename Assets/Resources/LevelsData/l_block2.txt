@@ -1,0 +1,5 @@
+PiNo-PiNo-BlNo-BlNo-BlNo-BlNo-YeNo-YeNo-YeNo-YeNo-YeNo
+PiNo-PiNo-PiNo-BlNo-BlNo-BlNo-BlNo-YeNo-YeNo-YeNo-YeNo
+GrNo-GrNo-GrNo-OrNo-OrNo-OrNo-ReNo-ReNo-ReNo-ReNo-ReNo
+GrNo-ReNo-ReNo-OrNo-YeNo-YeNo-OrNo-ViNo-ViNo-GrNo-GrNo
+ReNo-ReNo-ReNo-YeNo-YeNo-YeNo-ViNo-ViNo-ViNo-GrNo-GrNo
